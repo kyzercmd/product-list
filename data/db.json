@@ -2,19 +2,19 @@
   "products": [
     {
       "id": 10001,
-      "name": "How to not be a retard",
+      "name": "How to sleep 10 hours",
       "price": 29,
       "in_stock": true
     },
     {
       "id": 10002,
-      "name": "How to not be a libtard",
+      "name": "How to not fail in exams",
       "price": 31,
       "in_stock": false
     },
     {
       "id": 10003,
-      "name": "How to not be a faggot",
+      "name": "How to be free",
       "price": 89,
       "in_stock": true
     },
@@ -26,7 +26,7 @@
     },
     {
       "id": 10005,
-      "name": "How to not swim",
+      "name": "How not to swim",
       "price": 15,
       "in_stock": true
     }
